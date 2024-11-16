@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/bytehomeAndroidApp/.idea/caches
+/bytehomeAndroidApp/.idea/libraries
+/bytehomeAndroidApp/.idea/modules.xml
+/bytehomeAndroidApp/.idea/workspace.xml
+/bytehomeAndroidApp/.idea/navEditor.xml
+/bytehomeAndroidApp/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
